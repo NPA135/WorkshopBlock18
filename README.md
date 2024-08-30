@@ -9,7 +9,7 @@ Examples:
 - expect.multiplication(15,2).toBe(30)
 - expect.multiplication(7,7).toBe(49)
 
-## [ Pseudo for function concatOdds() ] - Unit Test
+# [ Pseudo for function concatOdds() ] - Unit Test
 - Takes two arrays of integers as arguments.
 - Should return a single array that only contains the odd numbers.
 - Should return the odd numbers in ascending order from both arrays.
@@ -24,7 +24,7 @@ Examples:
 - No arguments are given.
 - More than two arguments are given.
 
-### [ Shopping Cart ] - Functional Test
+# [ Shopping Cart ] - Functional Test
 
 What should happen if the cart is empty?
 - Tell users their cart is empty.
