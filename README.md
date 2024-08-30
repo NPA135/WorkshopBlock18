@@ -9,8 +9,6 @@ Examples:
 - expect.multiplication(15,2).toBe(30)
 - expect.multiplication(7,7).toBe(49)
 
-------------------------------------------------------
-
 ## [ Pseudo for function concatOdds() ] - Unit Test
 - Takes two arrays of integers as arguments.
 - Should return a single array that only contains the odd numbers.
